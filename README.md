@@ -1,4 +1,4 @@
-CSS Scaffold
+SASS Scaffold
 =============
 
 A scaffold for quickly getting your styles started and off the ground.
