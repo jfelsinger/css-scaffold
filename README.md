@@ -1,4 +1,4 @@
-SASS Scaffold
+SASS Scaffold [![Analytics](https://ga-beacon.appspot.com/UA-46797352-2/sass-scaffold/index)](https://github.com/igrigorik/ga-beacon)
 =============
 
 A scaffold for quickly getting your styles started and off the ground.
